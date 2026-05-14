@@ -47,3 +47,5 @@ public:
         cout << "Popped value: " << top->data << endl;
         delete temp;
     }
+
+    void peek()
